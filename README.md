@@ -1,6 +1,11 @@
 # pypowerbi
 
+Fork. Original URL: https://github.com/cmberryau/pypowerbi
+
 Python library for PowerBI. Loosely modelled after the C# PowerBI library to keep things somehow consistent.
+
+## Changelog of current fork
+0.24.2: Added support 'formatString' for Columns
 
 ## Installation
 
